@@ -1,6 +1,6 @@
 ![Cybersecurity](https://github.com/UukailDaBest/UukailDaBest/blob/main/wp11440836-star-wars-revan-wallpapers.jpg)
 
-### Hi there 👋, DarthKail
+###  DarthKail
 #### Cybersecurity
 
 I am a dedicated and enthusiastic in the Cybersecurity field with my current 3 years of experience as a Cybersecurity student. I am paying my full attention to be a penetration tester. Eager to provide skills in monitoring, securing, and enhancing defence to any classified and weak information and system. 
