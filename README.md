@@ -10,7 +10,7 @@ I am a dedicated and enthusiastic in the Cybersecurity field with my current 3 y
 * 🔥 Kali Linux
 * 💣 C
 * 🤖 Python
-Skills: Kali Linux / C / Python
+
 
 
 
