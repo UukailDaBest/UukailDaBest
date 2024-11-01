@@ -2,7 +2,7 @@
 
 ###  DarthKail
 
-I am a dedicated and enthusiastic in the Cybersecurity field with my current 3 years of experience as a Cybersecurity student. I am paying my full attention to be a penetration tester. Eager to provide skills in monitoring, securing, and enhancing defence to any classified and weak information and system. 
+I am a dedicated and enthusiastic in the Cybersecurity field with my current 3 years of experience as a Cybersecurity student. I am paying my full attention to becoming a penetration tester and a Red Teamer. Eager to provide skills in monitoring, securing, and enhancing defence to any classified and weak information and system. 
 
 ## Skills and Experience
 
